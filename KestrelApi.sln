@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KestrelApi", "KestrelApi\KestrelApi.csproj", "{24D21918-30C7-46D7-831C-A32CFCF1DBAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KestrelApiExample", "KestrelApiExample\KestrelApiExample.csproj", "{75B789D1-C8B9-45A8-9601-EE6C9498B468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D21918-30C7-46D7-831C-A32CFCF1DBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D21918-30C7-46D7-831C-A32CFCF1DBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D21918-30C7-46D7-831C-A32CFCF1DBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D21918-30C7-46D7-831C-A32CFCF1DBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B789D1-C8B9-45A8-9601-EE6C9498B468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B789D1-C8B9-45A8-9601-EE6C9498B468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B789D1-C8B9-45A8-9601-EE6C9498B468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B789D1-C8B9-45A8-9601-EE6C9498B468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
